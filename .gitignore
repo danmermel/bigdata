@@ -1,0 +1,5 @@
+*.cert
+*.txt
+.terraform
+.terraform.*
+terraform.*
